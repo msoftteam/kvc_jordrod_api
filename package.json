@@ -1,0 +1,25 @@
+{
+  "name": "tcs_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "moment": "^2.18.1",
+    "morgan": "^1.8.2",
+    "multer": "^1.3.0",
+    "multer-resizer": "github:mertdogar/multer-resizer",
+    "mysql": "^2.13.0",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "socket.io": "^2.0.3"
+  }
+}
